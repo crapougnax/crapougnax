@@ -11,13 +11,15 @@
 > *Coder, Maker, Entrepreneur, Epicurean Taoist, Quantified & Sovereign ❤️*  
 > 📍 **EU-Africa-Gulf-India Corridor or Remote** | 💼 **Available for Strategic Advisory, Fractional CTO & Architecture**
 
+Founder of **[@bradtech](https://github.com/bradtech)** (DeepTech Agronomy & Industrial IoT) and **[@Quatrain](https://github.com/Quatrain)** (Enterprise Master Data Management & Finite State Machines). Creator of the **[Tycho](https://github.com/tycho-ops)** open-source autonomous infrastructure ecosystem.
+
 ---
 
 ## ⚡ Core Pillars: Code & Infrastructure
 
-| 💻 Code, Intelligence & Edge | ☁️ Cloud-Native & Autonomous Infra |
+| 💻 Code, Intelligence & Core Blocks | ☁️ Cloud-Native & Autonomous Infra |
 | :--- | :--- |
-| **🧠 Sovereign AI & Local-First**<br>• **[Modaka](https://github.com/crapougnax/modaka)**: Decentralized edge PKM, OKF v0.1 format, 0ms local reads/writes.<br>• **Edge AI**: On-device SLMs & local neural embeddings without cloud lock-in.<br><br>**🧬 Quantified Self & Longevity**<br>• Personal bio-telemetry, biological sovereignty, privacy-first.<br><br>**🛰️ Robotics & Space Systems**<br>• **[BradOS](https://github.com/bradtech-oss)**: Mission-critical C++ firmware, PlatformIO, LoRa Basics™ Station.<br>• Deterministic Finite State Machines (FSM) & Domain-Driven Design (DDD). | **🚀 Multi-Cloud Kubernetes & GitOps**<br>• **[Tycho k8s-iac](https://github.com/crapougnax/k8s-iac)**: Multi-Cloud IaC (Scaleway/AWS/Hetzner), 1-click Let's Encrypt TLS, Traefik v3 & ArgoCD GitOps.<br><br>**⚡ Autonomous Host Management**<br>• **[Tycho CLI](https://github.com/tycho-ops/tycho)**: Rootless Podman container orchestration, zero-sudo user mode.<br><br>**🛡️ Enterprise Quality & LLM Protocol**<br>• Strict [AGENTS.md](https://gist.github.com/crapougnax/47971b85aa73dd702f4372a89858111c) protocol: TDD, 15-year horizon, fail-fast IaC. |
+| **🏗️ [Quatrain Core](https://github.com/Quatrain)**<br>• Agnostic, LLM-ready building blocks for code & no-code architectures.<br>• Universal Master Data Management (MDM), adapters & deterministic Finite State Machines.<br><br>**🧠 Sovereign AI & Local-First**<br>• **[Modaka](https://github.com/crapougnax/modaka)**: Decentralized edge PKM, OKF v0.1 format, 0ms local reads/writes.<br>• **Edge AI**: On-device SLMs & local embeddings without cloud lock-in.<br><br>**🧬 Quantified Self & Longevity**<br>• Personal bio-telemetry & health data sovereignty.<br><br>**🛰️ Robotics & Space Systems**<br>• **[BradOS](https://github.com/bradtech-oss)**: Mission-critical C++ firmware, PlatformIO & LoRa Basics™ Station. | **🚀 Multi-Cloud Kubernetes & GitOps**<br>• **[Tycho k8s-iac](https://github.com/crapougnax/k8s-iac)**: Multi-Cloud IaC (Scaleway/AWS/Hetzner), 1-click Let's Encrypt TLS, Traefik v3 & ArgoCD GitOps.<br><br>**⚡ Autonomous Host Management**<br>• **[Tycho CLI](https://github.com/tycho-ops/tycho)**: Rootless Podman container orchestration, zero-sudo user mode.<br><br>**🛡️ Enterprise Quality & LLM Protocol**<br>• Strict [AGENTS.md](https://gist.github.com/crapougnax/47971b85aa73dd702f4372a89858111c) protocol: TDD, 15-year horizon, fail-fast IaC. |
 
 ---
 
@@ -27,6 +29,7 @@
 Languages & Edge : TypeScript (Strict), Modern C++ (Firmware/Robotics), Python, POSIX Bash
 Infra & Cloud    : Kubernetes (ARM64/AMD64), Terraform, Traefik v3, Scaleway, AWS, Rootless Podman
 Data & Storage   : PostgreSQL (Timeseries & GIS), Redis, SQLite, Local-First IndexedDB, OKF v0.1
+Core Frameworks  : Quatrain Core (MDM, FSM, Pro/No-Code Building Blocks), Domain-Driven Design
 ```
 
 ---
