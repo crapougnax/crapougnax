@@ -9,7 +9,7 @@
 </p>
 
 > *Coder, Maker, Entrepreneur, Epicurean Taoist, Quantified & Sovereign ❤️*  
-> 📍 **EU-Africa-Gulf-India Corridor or Remote** | 💼 **Available for Strategic Advisory, Fractional CTO & Architecture**
+> 📍 **EU-Africa-Gulf-India Corridor or Remote** | 💼 **Exploring High-Impact Architecture & Sovereign Tech Challenges Abroad**
 
 Founder of **[@bradtech](https://github.com/bradtech)** (DeepTech Agronomy & Industrial IoT) and **[@Quatrain](https://github.com/Quatrain)** (Enterprise Master Data Management & Finite State Machines). Creator of the **[Tycho](https://github.com/tycho-ops)** open-source autonomous infrastructure ecosystem.
 
