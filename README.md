@@ -1,5 +1,5 @@
 # Hi, I'm Olivier Lépine (`@crapougnax`) 👋
-### Cloud-Native Architect • IoT & AI Systems Builder • Technology Entrepreneur
+### Cloud-Native Architect • Quantified Self & Longevity Advocate • Space & Robotics Explorer
 
 <p align="left">
   <a href="https://linkedin.com/in/crapougnax"><img src="https://img.shields.io/badge/LinkedIn-Olivier_L%C3%A9pine-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
@@ -8,20 +8,34 @@
   <img src="https://img.shields.io/badge/Geographic_Scope-EU--Africa--Gulf--India%20Corridor%20or%20Remote-success?style=flat-square" alt="Geographic Scope" />
 </p>
 
-> 📍 **EU-Africa-Gulf-India Corridor or Remote** | 💼 **Available for Strategic Advisory, Fractional CTO & High-End Cloud Architecture**
+> *Coder, Maker, Entrepreneur, Epicurean Taoist, Quantified & Sovereign ❤️*  
+> 📍 **EU-Africa-Gulf-India Corridor or Remote** | 💼 **Available for Strategic Advisory, Fractional CTO & Frontier Architecture**
 
 Founder of **[@bradtech](https://github.com/bradtech)** (DeepTech Agronomy & Industrial IoT) and **[@Quatrain](https://github.com/Quatrain)** (Enterprise Master Data Management & Finite State Machines). Creator of the **[Tycho](https://github.com/tycho-ops)** open-source autonomous infrastructure ecosystem.
 
 ---
 
+## 🔭 Frontier Domains & Focus Areas
+
+### 🧬 1. Quantified Self, Health & Longevity
+Passionate advocate for personal health metrics sovereignty, biological telemetry, and longevity science. Building local-first, privacy-preserving tools to model, track, and optimize physiological well-being without vendor lock-in.
+
+### 🛰️ 2. Space Technologies & Autonomous Robotics
+Exploring the new frontier: mission-critical edge computing, real-time robotics firmware (C++ / PlatformIO / RTOS), satellite and terrestrial LoRaWAN telemetry, and fail-safe state machines designed for extreme, high-reliability environments.
+
+### ☁️ 3. Cloud-Native & Autonomous Infrastructure
+Designing zero-friction, sovereign cloud systems: Kubernetes ARM64/AMD64 clusters, declarative GitOps with ArgoCD, automated ACME/Let's Encrypt TLS orchestration, and rootless Podman container environments.
+
+---
+
 ## 🌐 Featured Ecosystems & Open-Source Highlights
 
-| Ecosystem / Project | Domain & Architecture | Core Stack |
+| Ecosystem / Project | Frontier & Domain | Core Stack |
 | :--- | :--- | :--- |
-| 🚀 **[Tycho k8s-iac](https://github.com/crapougnax/k8s-iac)** | Production Multi-Cloud Kubernetes, 1-Click TLS & GitOps | `Terraform` • `Kubernetes` • `Traefik v3` • `ArgoCD` |
-| 🧠 **[Modaka](https://github.com/crapougnax/modaka)** | Decentralized Edge-First PKM & AI Semantic Network Engine | `TypeScript` • `Bun` • `OKF v0.1` • `AI / LLM` |
-| ⚡ **[Tycho CLI](https://github.com/tycho-ops/tycho)** | Autonomous Rootless Server & Host Container Orchestrator | `Rootless Podman` • `Bash / POSIX` • `Systemd` |
-| 📡 **[BradTech IoT](https://github.com/bradtech-oss)** | Scaleway SBS Persistent Telemetry & LoRa Basics™ Station | `ChirpStack v4` • `PostgreSQL / GIS` • `Bun` |
+| 🚀 **[Tycho k8s-iac](https://github.com/crapougnax/k8s-iac)** | Multi-Cloud Kubernetes IaC, 1-Click TLS & Declarative GitOps | `Terraform` • `Kubernetes` • `Traefik v3` • `ArgoCD` |
+| 🧠 **[Modaka](https://github.com/crapougnax/modaka)** | Sovereign Data Brain, Edge-First PKM & AI Semantic Networks | `TypeScript` • `Bun` • `OKF v0.1` • `Quantified Self` |
+| 🤖 **[BradTech / BradOS](https://github.com/bradtech-oss)** | Industrial Edge Telemetry, Robotics Firmware & ChirpStack v4 | `C++ / PlatformIO` • `LoRa Basics™ Station` • `PostgreSQL` |
+| ⚡ **[Tycho CLI](https://github.com/tycho-ops/tycho)** | Autonomous Rootless Host & Container Orchestrator | `Rootless Podman` • `Bash / POSIX` • `Systemd` |
 | 🏗️ **[Quatrain Core](https://github.com/Quatrain)** | Universal Master Data Management & Reality State Machines | `TypeScript` • `DDD` • `State Machines` • `AGPL-v3` |
 
 ---
@@ -29,10 +43,11 @@ Founder of **[@bradtech](https://github.com/bradtech)** (DeepTech Agronomy & Ind
 ## 🛠️ Core Engineering & Architectural Stack
 
 ```text
-Languages       : TypeScript (Strict/No Any), Modern C++ (Firmware/Robotics), Python, Bash/POSIX
-Cloud & Infra   : Kubernetes (ARM64 & AMD64), Terraform, Traefik v3, Scaleway, AWS, Podman
+Languages       : TypeScript (Strict/No Any), Modern C++ (Embedded/Firmware/Robotics), Python, Bash/POSIX
+Hardware & IoT  : ESP32 / ARM Microcontrollers, PlatformIO, LoRaWAN (ChirpStack/Basics Station), Sensor Networks
+Cloud & Infra   : Kubernetes (ARM64 & AMD64), Terraform, Traefik v3, Scaleway, AWS, Podman Rootless
 Data & Storage  : PostgreSQL (Timeseries & PostGIS), Redis, SQLite, Local-First IndexedDB
-Architecture    : Domain-Driven Design (DDD), Fail-Fast Contracts, 15-Year Maintainability
+Architecture    : Domain-Driven Design (DDD), Finite State Machines (FSM), 15-Year Horizon Maintainability
 ```
 
 ---
