@@ -5,10 +5,10 @@
   <a href="https://linkedin.com/in/crapougnax"><img src="https://img.shields.io/badge/LinkedIn-Olivier_L%C3%A9pine-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/crapougnax"><img src="https://img.shields.io/badge/Twitter-@crapougnax-1DA1F2?style=flat-square&logo=twitter" alt="Twitter" /></a>
   <a href="https://gist.github.com/crapougnax/47971b85aa73dd702f4372a89858111c"><img src="https://img.shields.io/badge/AI_Protocol-AGENTS.md-blueviolet?style=flat-square&logo=github" alt="AI Protocol" /></a>
-  <img src="https://img.shields.io/badge/Location-Paris_%E2%80%A2_Dubai_%E2%80%A2_Remote-success?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Geographic_Scope-EU--Africa--Gulf--India%20Corridor%20or%20Remote-success?style=flat-square" alt="Geographic Scope" />
 </p>
 
-> 📍 **Paris • Dubai • Remote** | 💼 **Available for Strategic Advisory, Fractional CTO & High-End Cloud Architecture**
+> 📍 **EU-Africa-Gulf-India Corridor or Remote** | 💼 **Available for Strategic Advisory, Fractional CTO & High-End Cloud Architecture**
 
 Founder of **[@bradtech](https://github.com/bradtech)** (DeepTech Agronomy & Industrial IoT) and **[@Quatrain](https://github.com/Quatrain)** (Enterprise Master Data Management & Finite State Machines). Creator of the **[Tycho](https://github.com/tycho-ops)** open-source autonomous infrastructure ecosystem.
 
